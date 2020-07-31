@@ -1,8 +1,51 @@
-/* .project-row {
-    display: flex;
-}
+/* .row { */
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* width: 100%; */
+    
 
-.project-col {
-    flex: 1;
-    height: 100%;
-} */
+    /* display: table;
+    width: 100%; */
+
+    /* display: grid;
+    grid-auto-flow: column; */
+    /* gap: 5%; */
+/* } */
+
+/* .col { */
+    /* flex-basis: 30%; */
+    /* box-sizing: border-box; */
+    /* border: solid; */
+
+    /* flex: 1; */
+    /* padding: 30px; */
+
+    /* display: table-cell;
+    height: 100%; */
+
+    /* border: solid; */
+    /* background-color: #F1F1F1; */
+
+    /* position: relative; */
+/* } */
+
+/* .github-link { */
+    /* display: inline-block; */
+    /* align-self: flex-end; */
+
+    /* position: absolute; */
+    /* bottom: 5; */
+/* } */
+
+/* .w3-white { */
+    /* height: 47%; */
+    /* box-sizing: border-box; */
+/* } */
+
+/* @media only screen and (max-width: 600px) { */
+    /* .col { */
+        /* display: block; */
+        /* width: 100%; */
+    /* } */
+/* } */
+
